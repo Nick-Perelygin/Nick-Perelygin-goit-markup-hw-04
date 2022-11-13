@@ -490,6 +490,9 @@ align-items: center;}
 .footer{display: flex;}
 .ttt{display: flex;}
   .join{width: 246px;}
+  .box-client{
+    color: #AFB1B8;
+  }
   
   
 
